@@ -1,0 +1,3 @@
+Device:   Speakers HyperX Amp Game {0672fdbb-3c75-425f-825d-5810a444dbc3}; Speakers High Definition Audio Device {7d1f3db3-024a-46aa-af08-9702cab35032}
+GraphicEQ: 25 1.8; 40 -1; 63 -0.6; 100 1.4; 160 3; 250 2.2; 400 0; 630 -1.4; 1000 -3; 1600 -3; 2500 -2.2; 4000 0; 6300 2.2; 10000 8.2; 16000 12.2
+Preamp: 6 dB
