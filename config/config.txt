@@ -1,3 +1,4 @@
 Include: HyperXCloudMix.txt
+Include: AsusProArtPA278QV.txt
 Include: Pubg.txt
 Include: HyperXQuadcast.txt
